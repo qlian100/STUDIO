@@ -1,0 +1,869 @@
+body{
+
+	padding:0px;
+	margin:0px;
+}
+
+.logo{
+
+	font-size: 28px;
+	color: #ffffff;
+}
+
+.studio{
+	font-size: 28px;
+	color: #F1BE13;
+
+}
+.navbar{
+
+	background-color: #000000;
+	height: 80px;
+	position: fixed;
+	width: 100%;
+	top:0px;
+	font-size: 15px;
+	color:#ffffff;
+	z-index: 10000;
+
+
+
+
+
+}
+
+nav{
+
+	width: 1040px;
+	margin:0px auto;
+	display: flex;
+	font-size: 17px;
+
+
+
+
+
+}
+
+
+nav a{
+
+color:#ffffff;
+padding:24px 18px;
+
+}
+
+
+/* -------------- 1111111111111111  start home section 1111111111111111 --------------  */
+
+
+
+.active{
+ background-color:#F0BD31;
+}
+
+.inner{
+
+	margin-right: 20px;
+	padding-top: 300px;
+}
+.container{
+ background-color:rgba(0,0,0,.5);
+ height:120px;
+ width:1000px;
+ padding:20px;
+ display:flex;
+}
+.bold{
+ background-color:#F34376;
+ color:#ffffff;
+ font-weight:bold;
+ width:238px;
+ height:118px;
+ font-size:80px;
+ text-align: center;
+ line-height: 118px;
+}
+
+.creative{
+ background-color:#158DC2;
+ color:#ffffff;
+ font-weight:bold;
+ width:371px;
+ height:118px;
+ font-size:80px;
+ text-align: center;
+ line-height: 118px;
+}
+.different{
+ background-color:#EE972C;
+ color:#ffffff;
+ font-weight:bold;
+ width:396px;
+ height:118px;
+ font-size:80px;
+ text-align: center;
+ line-height: 118px;
+}
+
+/* -------------- 1111111111111111 end home section 111111111111111111111111-------------- */
+
+
+
+/* --------------  2222222 2222222 2222222 start  about section  2222222 2222222 2222222-------------- */
+
+.about{
+
+	padding:70px;
+}
+
+.about_row{
+
+	display: flex;
+}
+
+
+.about_title{
+
+	font-size: 60px;
+	font-family: roboto;
+	font-weight: bold;
+
+}
+
+.about_subtitle{
+
+	font-size:60px;
+	font-family: roboto;
+	font-weight: bold;
+	color: #bbbbbb;
+}
+
+
+.about_subtitle2{
+
+	font-size:25px;
+	font-family: roboto;
+	font-weight: bold;
+	margin-top: 50px;
+
+}
+
+.slash2{
+	font-size:25px;
+	color: #89A018;
+	margin-top: 50px;
+		font-weight: bold;
+
+}
+
+.about_text{
+
+	font-size:20px;
+	font-family: roboto;
+	color: #bbbbbb;
+	width: 80%;
+	line-height:35px;
+
+}
+
+.space1{
+
+	margin-top: 20px;
+}
+
+.about_row2{
+
+	display: flex;
+}
+
+.flex2{
+
+	margin-top:70px;
+	flex-wrap: wrap;
+	text-align: center;
+	justify-content: center;
+}
+.branding{
+
+font-size: 20px;
+color: #F09813;
+font-weight: bold;
+}
+
+.branding_text{
+
+font-size: 17px;
+color: #bbbbbb;
+text-align: center;
+
+}
+
+.slash {
+	font-size: 60px;
+	font-weight: bold;
+}
+
+/* -------------- 2222222 end about section 2222222-------------- */
+
+
+
+
+/* -------------- 333333333 start team section 3333333-------------- */
+
+
+
+
+
+
+
+
+/* -------------- 333333333end team section 333333333-------------- */
+
+.flex_title{
+
+	display: flex;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.slide{
+
+	padding: 100px;
+	width: 100px;
+}
+
+.team{
+
+	padding:100px;
+
+
+}
+
+
+
+
+.team_title{
+
+	color: #000000;
+	font-family: roboto;
+	font-weight: bold;
+	font-size: 60px;
+}
+
+
+.team_subtitle{
+
+	color: #ffffff;
+	font-family: roboto;
+	font-weight: bold;
+	font-size: 55px;
+
+}
+
+.flex-left-right{
+
+	display: flex;
+}
+
+
+.row3{
+
+	display: flex;
+	margin-top: 50px;
+}
+.row4{
+
+	display: flex;
+}
+
+
+.picture1{
+
+	position: relative;
+
+}
+
+.member1{
+
+	position: relative;
+	font-family: roboto;
+	font-weight: bold;
+	font-size: 30px;
+	color: #ffffff;	
+	text-align: center;	
+
+}
+
+.scrip1{
+
+	position: relative;
+	font-family: roboto;
+	font-size: 20px;
+	color: #ffffff;	
+	text-align: center;		
+
+}
+
+
+
+
+.picture2{
+
+	position: relative;
+
+
+}
+
+.member2{
+
+	position: relative;
+	font-family: roboto;
+	font-weight: bold;
+	font-size: 30px;
+	color: #EFBF13;
+		text-align: center;	
+
+}
+
+.scrip2{
+
+	position: relative;
+	font-family: roboto;
+	font-size: 20px;
+	color: #ffffff;		
+	text-align: center;
+
+}
+
+
+.flex-max{
+
+	margin-left: 30px;
+}
+
+.picture3{
+
+	position: relative;
+	z-index: 99px;
+}
+
+.member3{
+
+	position: relative;
+	font-family: roboto;
+	font-weight: bold;
+	font-size: 30px;
+	color: #ffffff;	
+		text-align: center;
+
+}
+
+.scrip3{
+
+	position: relative;
+	font-family: roboto;
+	font-size: 20px;
+	color: #ffffff;	
+	text-align: center;	
+
+}
+
+
+
+.row4{
+
+	margin-top: 50px;
+}
+
+.picture4{
+
+	position: relative;
+
+}
+
+.member4{
+
+	position: relative;
+	font-family: roboto;
+	font-weight: bold;
+	font-size: 30px;
+	color: #ffffff;	
+	text-align: center;
+
+}
+
+.scrip4{
+
+	position: relative;
+	font-family: roboto;
+	font-size: 20px;
+	color: #ffffff;	
+	text-align: center;	
+
+}
+
+.flex-amy{
+
+	margin-left: 30px;
+}
+
+.picture5{
+
+	position: relative;
+
+}
+
+.member5{
+
+	font-family: roboto;
+	font-weight: bold;
+	font-size: 30px;
+	color: #ffffff;	
+	text-align: center;	
+
+}
+
+.scrip5{
+
+	position: relative;
+	font-family: roboto;
+	font-size: 20px;
+	color: #ffffff;		
+	text-align: center;
+
+}
+
+.flex-Alana{
+
+	margin-top: 50px;
+}
+.picture6{
+
+	position: relative;
+
+}
+
+.member6{
+
+	position: relative;
+	font-family: roboto;
+	font-weight: bold;
+	font-size: 30px;
+	color: #ffffff;	
+	text-align: center;	
+
+}
+
+.scrip6{
+
+	position: relative;
+	font-family: roboto;
+	font-size: 20px;
+	color: #ffffff;	
+	text-align: center;		
+
+}
+
+
+/* -------------- 44444444444 start blog section 44444444444444444444-------------- */
+
+
+.blog{
+
+padding:100px;
+
+}
+
+
+
+
+
+
+.row{
+
+	display: flex;
+	margin-top: 15px;
+}
+
+.blog_title{
+
+	color: #000000;
+	font-family: roboto;
+	font-weight: bold;
+	font-size: 60px;
+}
+
+.blog_subtitle{
+
+	color: #bbbbbb;
+	font-family: roboto;
+	font-weight: bold;
+	font-size: 60px;
+}
+
+
+.post{
+
+	position: relative;
+}
+
+.post_text{
+	margin-right: 15px;
+}
+
+
+
+.label{
+
+position: absolute;
+bottom:0px;
+right:0px;
+color:#ffffff;
+font-size:50px;
+padding-left:5x;
+background-color: #018FB7;
+width: 60px;
+font-family: roboto;
+font-weight:bold;
+
+}
+
+.yellow{
+	color: #EBBA11;
+}
+
+.green{
+
+	color: #89A018;
+}
+
+.blue{
+
+	color: #018FB7;
+	font-family: roboto;
+	font-weight: bold;
+}
+
+.pink{
+	color: #F44077;
+	font-family: roboto;
+	font-weight: bold;
+}
+
+
+.black{
+
+	color: #000000;
+}
+
+.grey{
+
+	color: #bbbbbb;
+}
+
+.orange{
+
+	color: #F09813;
+}
+
+.blog_text{
+
+	flex-wrap: wrap;
+	font-size: 30px;
+	margin-left: 19px;
+
+}
+
+.blog_subtext{
+	flex-wrap: wrap;
+	font-size: 21px;
+	margin-left: 19px;
+
+
+}
+
+.date{
+
+		font-size: 22px;
+		color: #F44077;
+				font-family: roboto;
+	font-weight: bold;
+		margin-left: 19px;
+}
+
+.date_grey{
+
+		font-size: 22px;
+		color: #cccccc;
+		font-family: roboto;
+		font-weight: bold;
+		
+}
+
+
+.space{
+	margin-top: 15px;
+}
+
+/* --------------4444444444  end blog section 44444444444444444444-------------- */
+
+
+
+/* -------------- 55555555555555555555 test section 555555555555555-------------- */
+
+
+.testimonials{
+
+	width: 1000px; /* 1 slide at a time */
+	height: 500px;
+	overflow: hidden;
+	position: relative;
+	font-size: 30px;
+	margin: auto;
+	padding-top: 10px;
+
+}
+
+
+
+.right, .left{
+
+	width: 100px;
+	height: 30px;
+	padding:5px;
+	text-align: center;
+	background-color: #dddddd;
+	position: absolute;
+	top:350px;
+	z-index: 100;
+
+}
+
+.right{
+
+	right:0px;
+
+}
+
+
+.slide{
+
+	width: 800px;
+	height: 500px;
+	position: relative;
+	color: #ffffff;
+	font-size: 50px;
+
+}
+
+
+
+.slidebox{
+
+	width: 50000px;   /* there are 5 slide */
+	display: flex;
+	position: relative;
+
+}
+
+
+
+.head{
+
+	font-size: 50px;
+	font-weight: bold;
+
+}
+
+.name{
+
+	position: absolute;
+	background-color:#F1BE13; 
+	color:#000000;
+	font-size: 30px;
+	font-family: Roboto;
+	font-weight: bold;
+	right: 200px;
+	top: 420px;
+	padding:10px;
+
+
+}
+
+
+
+.slidetext{
+
+	font-family: 'Rock Salt';
+	text-align: center;
+	flex-wrap: wrap;
+	line-height:70px;
+
+}
+
+
+
+
+.flex_title2{
+
+	display: flex;
+	font-weight: bold;
+	font-size: 30px;
+	justify-content: center;
+}
+
+
+/* -------------- 555555555555555 end test section 555555555555555 -------------- */
+
+
+
+
+
+
+
+
+.contact{
+
+	padding:100px;
+	padding-top: 260px;
+}
+
+
+
+.contact_title{
+	color: #ffffff;
+	font-size: 50px;
+	font-family: roboto;
+	font-weight: bold;
+}
+
+.info{
+
+	font-family: roboto;
+	color: #ffffff;
+	font-size: 20px;
+
+}
+
+
+.info2{
+
+	font-family: roboto;
+	color: #ffffff;
+	font-size: 20px;
+	padding-top: 30px;
+}
+
+
+/* dictate the amount if space available within the section for actual content. one per section
+	you should not need to modify this
+
+ */
+
+
+.inner{
+ width: 1040px;
+ margin:0px auto;
+
+}
+
+/* xxxxxxxxxxxxxxxxxxxxxxx optional just for class xxxxxxxxxxxxxxxxxxxxxxxxxxx */ 
+
+
+section{
+height:  1000px;
+font-size: 100px;
+background-color: #ffff00
+
+/* excpt this 2 , do not remove */
+
+
+}
+
+
+
+#one{
+
+	background: url(images/home_bg.jpg) center top;
+	height: 1000px;
+}
+
+#two{
+
+	background-color: #ffffff;
+	height: 1000px;
+}
+
+#three{
+
+	background: url(images/team_bg.jpg) center top;
+	height: 1200px;
+}
+
+
+#four{
+
+	background: url(images/blog_bg.jpg) center top;
+	height: 1650px;
+
+
+}
+
+#five{
+
+	background: url(images/testimonials_bg.jpg) center top;
+	height: 775px;
+}
+
+
+#six{
+
+	background: url(images/contact_bg.jpg) center top;
+	height: 775px;
+}
+
+
+
+
+
+.lower{
+
+	margin-top: 80px;
+}
+
+.active{
+
+	background-color: #F1BE13;
+}
+
+/* I've included the two font-families that you need for this project already in the html document.  
+
+they are:  
+Roboto (almost the entire page)
+Rock Salt (the testimonial section) 
+
+you'll use them like so:
+font-family: 'Roboto';
+---and---
+font-family: 'Rock Salt'
+
+
+Notably, Roboto has different "weights" available to it:
+
+"Normal" 
+font-weight:400;
+
+"Bold"
+font-weight:700;
+
+"Black" (extra bold)
+font-weight:900;
+
+if you're curious, copy/paste these:
+https://fonts.google.com/specimen/Roboto
+https://fonts.google.com/specimen/Rock+Salt
+
+Otherwise, happy coding!
+
+*/
